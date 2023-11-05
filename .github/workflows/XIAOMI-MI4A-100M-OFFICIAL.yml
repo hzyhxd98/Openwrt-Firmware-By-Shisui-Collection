@@ -16,7 +16,7 @@ on:
      - cron: 0 8 1 * *
 
 env:
-  REPO_URL: https://git.openwrt.org/hzyhxd98/openwrt18.06
+  REPO_URL: https://github.com/hzyhxd98/openwrt18.06
  # REPO_URL: https://git.openwrt.org/openwrt/openwrt.git
   REPO_BRANCH: openwrt-18.06
  # REPO_BRANCH: openwrt-21.02
