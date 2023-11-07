@@ -16,7 +16,7 @@ on:
      - cron: 0 8 1 * *
 
 env:
-  REPO_URL: https://git.openwrt.org/openwrt/openwrt.git
+  REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: router-config/XIAOMI-MI4A-100M-OFFICIAL/feeds.conf.default
   CONFIG_FILE: router-config/XIAOMI-MI4A-100M-OFFICIAL/1.config
